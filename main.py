@@ -57,6 +57,7 @@ def main():
         print("3- Cost per class day")
         print("4- Cost per credit")
         print("5- Cost per CS 1430 class")
+        print("6- Cost per basketball games played?")
         print("Q - Quit")
 
         choice = input("Choose an option: ")
@@ -75,6 +76,9 @@ def main():
             print(f"Cost per credit: {cost_per_credit(annual_cost, credits):.2f}")
         elif choice == "5":
             print(f"Cost per CS 1430 class: {cost_per_class(annual_cost, credits):.2f}")
+        elif choice == "6":
+            games_played = int(input("Enter the number of basketball games played: "))
+            print(f"Cost per basketball game: {cost_per_semester(annual_cost) / games_played:.2f}")
         else:
             print("Invalid choice. Please try again.")
 
