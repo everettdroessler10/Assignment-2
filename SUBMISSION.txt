@@ -4,11 +4,11 @@ Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pas
 CS 1430 Assignment 2: The Cost of College
 GitHub user : everettdroessler10
 Repository  : https://github.com/everettdroessler10/Assignment-2
-Commit      : bd5174b2cfcb5be479ca35509a4133ecc6ab4700
+Commit      : a89db50620c50971b83cb80395f8176cc8935bad
 Message     : SUCCESS
 Author      : everett <droesslere@uwplatt.edu>
-Committed   : 2026-10-26T15:28:25-05:00
-Checked     : 2026-10-26 15:29:01 Central Daylight Time
+Committed   : 2026-10-26T15:34:47-05:00
+Checked     : 2026-10-26 15:35:15 Central Daylight Time
 Python      : 3.14.7
 
 ================================================================
@@ -52,7 +52,7 @@ Enter the total cost for one year: Enter the number of credits this semester: Me
 3- Cost per class day
 4- Cost per credit
 5- Cost per CS 1430 class
-6- Cost per basketball games played?
+6- Cost per basketball games played
 Q - Quit
 Choose an option: Cost per semester: 7300.50
 Menu:
@@ -61,7 +61,7 @@ Menu:
 3- Cost per class day
 4- Cost per credit
 5- Cost per CS 1430 class
-6- Cost per basketball games played?
+6- Cost per basketball games played
 Q - Quit
 Choose an option: Cost per month: 1622.33
 Menu:
@@ -70,7 +70,7 @@ Menu:
 3- Cost per class day
 4- Cost per credit
 5- Cost per CS 1430 class
-6- Cost per basketball games played?
+6- Cost per basketball games played
 Q - Quit
 Choose an option: Cost per class day: 97.34
 Menu:
@@ -79,7 +79,7 @@ Menu:
 3- Cost per class day
 4- Cost per credit
 5- Cost per CS 1430 class
-6- Cost per basketball games played?
+6- Cost per basketball games played
 Q - Quit
 Choose an option: Cost per credit: 486.70
 Menu:
@@ -88,7 +88,7 @@ Menu:
 3- Cost per class day
 4- Cost per credit
 5- Cost per CS 1430 class
-6- Cost per basketball games played?
+6- Cost per basketball games played
 Q - Quit
 Choose an option: Cost per CS 1430 class: 32.45
 Menu:
@@ -97,6 +97,6 @@ Menu:
 3- Cost per class day
 4- Cost per credit
 5- Cost per CS 1430 class
-6- Cost per basketball games played?
+6- Cost per basketball games played
 Q - Quit
 Choose an option:
